@@ -25,7 +25,7 @@ Before running the code, ensure you have the following:
 
 ## Setup
 
-1. Place your `credentials.json` file in the project directory.
+1. Copy your `credentials.json` path into a `config.py` as JSONPATH.
 2. Prepare your CSV file (e.g., `classes.csv`) with the following format:
 
    | Task       | Course | Date       |
